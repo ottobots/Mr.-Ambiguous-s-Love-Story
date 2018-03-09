@@ -1,1 +1,1 @@
-Mr. Ambiguous' Love Story
+Mr. Ambiguous's Love Story
