@@ -25,6 +25,6 @@ gameState.prototype = {
     text.setText("X: " + game.input.mousePointer.x + "  Y: " + game.input.mousePointer.y);
   }
 };
-
+// rowin why you choose this?
 // Global variables
 let text;
